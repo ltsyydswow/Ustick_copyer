@@ -6,3 +6,5 @@ Automatically save all files on the Ustick
 
 ```bash
 python3 up.py
+
+![photo](image.png)
